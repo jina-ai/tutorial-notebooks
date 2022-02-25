@@ -11,7 +11,7 @@ We put a lot of stuff in notebooks to give users an interactive learning experie
 - Create a new folder under `/src/tutorials` for your notebook. That way if it downloads stuff it won't mess up the directory tree.
 - When you've pushed your notebook you can import it into Colab from GitHub. Any changes to the notebook in the repo will be synced automatically.
 
-![](/public/assets/images/readme/colab_import.png)
+![](/assets/images/colab_import.png)
 
 #### Why do it this way?
 
